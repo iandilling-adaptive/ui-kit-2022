@@ -1,6 +1,6 @@
 {
   "name": "@ui-kit-2022/components",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "type": "module",
   "files": [
     "dist"
@@ -26,7 +26,7 @@
     "@emotion/styled": "^11.10.4",
     "@mui/icons-material": "^5.10.6",
     "@mui/material": "^5.10.6",
-    "@ui-kit-2022/theme": "0.0.1",
+    "@ui-kit-2022/theme": "1.0.0",
     "chart.js": "^3.9.1",
     "chartjs-plugin-annotation": "^2.0.1",
     "chartjs-plugin-zoom": "^1.2.1",
@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "@ui-kit-2022/svgr-template": "^1.0.0",
-    "@ui-kit-2022/theme": "0.0.1",
+    "@ui-kit-2022/theme": "1.0.0",
     "vite": "^3.1.0"
   },
   "repository": {
